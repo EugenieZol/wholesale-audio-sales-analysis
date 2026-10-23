@@ -44,11 +44,14 @@
 *Динамика выручки, среднего чека и числа заказов по дням*
 
 ## Структура проекта
-├── data/ # Исходные данные (заказы, товары, курс доллара)
-├── wholesale-audio-sales-analysis # Jupyter Notebook с полным анализом
-├── visuals/ # Ключевые графики и скриншоты
+```text
+├── data/                                      # Исходные данные
+├── wholesale-audio-sales-analysis             # Jupyter Notebook
+├── visuals/                                   # Графики
 ├── README.md
 └── requirements.txt
+```
+
 
 # Wholesale Audio Equipment Sales Analysis
 
@@ -95,8 +98,11 @@ Each order has either a `confirmed` or `canceled` status. An order may contain m
 *Daily revenue, average order value and order count*
 
 ## Project Structure
-├── data/ # Source data (orders, products, USD rate)
-├── wholesale-audio-sales-analysis # Jupyter Notebook with full analysis
-├── visuals/ # Key charts and screenshots
+```text
+├── data/                                      # Исходные данные
+├── wholesale-audio-sales-analysis             # Jupyter Notebook
+├── visuals/                                   # Графики
 ├── README.md
 └── requirements.txt
+```
+
